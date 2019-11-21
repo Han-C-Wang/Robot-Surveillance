@@ -1,4 +1,4 @@
-Robot-Surveillance-julia
+Robot-Surveillance-Julia
 ======
 This is a free open source matlab toolbox for helping with calculating and optimizing some stochastic parameters on markov chain. It is basicly used in robot application when one or a group of robots randomly move on a graph to perform a surveillance task. Details of the algorithms and mathematic forms can be found in [professor Francesco Bullo's publications](http://motion.me.ucsb.edu/papers/index.html).
 # Installation
