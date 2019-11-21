@@ -4,4 +4,4 @@ LICENSE:<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/
 ## Introduction
 RoboSurv is an open source Matlab & Julia software toolbox designed for calculating and optimizing a bunch of quantities and metrics related to Markov chains. 
 ## Usage
-User instruction can be found in [Robot-Surveillance-Julia](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Robot-Surveillance-Julia/README.md) and [Robot-Surveillance-Matlab](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Robot-Surveillance-Matlab/README.md). Users are referred to the [documentation](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Documentation.pdf)for more details.
+User instruction can be found in [Robot-Surveillance-Julia](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Robot-Surveillance-Julia/README.md) and [Robot-Surveillance-Matlab](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Robot-Surveillance-Matlab/README.md). Users are referred to the [documentation](https://github.com/Han-C-Wang/Robot-Surveillance/blob/master/Documentation.pdf) for more details.
