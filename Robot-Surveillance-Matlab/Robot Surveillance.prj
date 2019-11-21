@@ -1,0 +1,123 @@
+<deployment-project plugin="plugin.toolbox" plugin-version="1.0">
+  <configuration file="D:\work-software\matlab\markov\Robot Surveillance.prj" location="D:\work-software\matlab\markov" name="Robot Surveillance" target="target.toolbox" target-name="工具箱打包">
+    <param.appname>Robot Surveillance</param.appname>
+    <param.authnamewatermark>Han Wang</param.authnamewatermark>
+    <param.email>sjtu.hanwang@gmail.com</param.email>
+    <param.company />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.version>1.0</param.version>
+    <param.output>${PROJECT_ROOT}\Robot Surveillance.mltbx</param.output>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.guid>ccf864d4-69e6-412b-ab75-8cbabdf25680</param.guid>
+    <param.exclude.filters />
+    <param.examples />
+    <param.demosxml />
+    <param.apps />
+    <param.docs />
+    <param.matlabpath.excludes />
+    <unset>
+      <param.company />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.version />
+      <param.output />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.exclude.filters />
+      <param.examples />
+      <param.demosxml />
+      <param.apps />
+      <param.docs />
+      <param.matlabpath.excludes />
+    </unset>
+    <fileset.rootdir>
+      <file>D:\work-software\matlab\markov</file>
+    </fileset.rootdir>
+    <fileset.rootfiles>
+      <file>${PROJECT_ROOT}\.git</file>
+      <file>${PROJECT_ROOT}\EntropyRate.m</file>
+      <file>${PROJECT_ROOT}\EntropyRateOp.m</file>
+      <file>${PROJECT_ROOT}\HittingTime.m</file>
+      <file>${PROJECT_ROOT}\HittingTimeOp.m</file>
+      <file>${PROJECT_ROOT}\Irreducible_or_not.m</file>
+      <file>${PROJECT_ROOT}\Kemeny.m</file>
+      <file>${PROJECT_ROOT}\Kemeny_weights.m</file>
+      <file>${PROJECT_ROOT}\KemenyOp.m</file>
+      <file>${PROJECT_ROOT}\Markov_or_not.m</file>
+      <file>${PROJECT_ROOT}\MC_COMP.m</file>
+      <file>${PROJECT_ROOT}\MC_OP.m</file>
+      <file>${PROJECT_ROOT}\MixingTime.m</file>
+      <file>${PROJECT_ROOT}\MixingTimeOp.m</file>
+      <file>${PROJECT_ROOT}\myfun_travel.m</file>
+      <file>${PROJECT_ROOT}\RandomMC.m</file>
+      <file>${PROJECT_ROOT}\README.md</file>
+      <file>${PROJECT_ROOT}\ReturnTimeEntropy.m</file>
+      <file>${PROJECT_ROOT}\ReturnTimeEntropyOp.m</file>
+      <file>${PROJECT_ROOT}\Rushabh_op_cvx.m</file>
+      <file>${PROJECT_ROOT}\Rushabh_op_norm_cvx.m</file>
+      <file>${PROJECT_ROOT}\Rushabh_op_sdp.m</file>
+      <file>${PROJECT_ROOT}\Rushabh_op_sdp_cvx.m</file>
+      <file>${PROJECT_ROOT}\stadis.m</file>
+      <file>${PROJECT_ROOT}\test.m</file>
+    </fileset.rootfiles>
+    <fileset.depfun.included />
+    <fileset.depfun.excluded />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\work-software\matlab\markov" name="Robot Surveillance.mltbx" optional="false">D:\work-software\matlab\markov\Robot Surveillance.mltbx</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\work-software\matlab\matlab</root>
+      <toolboxes>
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabcoder" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="embeddedcoder" />
+      </toolboxes>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

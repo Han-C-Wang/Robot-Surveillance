@@ -1,0 +1,13 @@
+name = "MarkovChain"
+uuid = "9c55f6d0-ce91-11e9-28e6-2779811b94eb"
+authors = ["Han Wang <sjtu.hanwang@gamil.com>"]
+version = "0.1.0"
+
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+Ipopt = "b6b21f68-93f8-5de0-b562-5493be1d77c9"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
