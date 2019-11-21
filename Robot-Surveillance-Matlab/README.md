@@ -2,7 +2,7 @@ Robot-Surveillance-Matlab
 ======
 This is a free open source matlab toolbox for calculating and optimizing a bunch of quantities and metrics that are related to Markov chains. It is motivated by the use of Markov chains in robotic applications where one or a group of robots randomly move on a graph to perform surveillance tasks. Details of the algorithms and mathematical formulas may be found in [professor Francesco Bullo's publications](http://motion.me.ucsb.edu/papers/Keyword/ROBOTIC-NETWORKS.html).
 # Installation
-* To install the toolbox into your matlab, please download [Robot Surveillance.mltbx](https://github.com/SJTUHan/Robot-Surveillance-Matlab/blob/master/Robot%20Surveillance.mltbx) into your workspace of matlab, then double click the file and all the functions in the toolbox can be used.
+* To install the toolbox into your matlab, please download [Robot Surveillance.mltbx](https://github.com/HanWang99/Robot-Surveillance/blob/master/Robot-Surveillance-Matlab/Robot%20Surveillance.mltbx) into your workspace of matlab, then double click the file and all the functions in the toolbox can be used.
 * The other way to use the toolbox is to download and unzip the software package, then add all files into the workspace. 
 # Usage
 ## Notice
