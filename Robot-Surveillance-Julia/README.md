@@ -4,7 +4,7 @@ This is a free open source matlab toolbox for helping with calculating and optim
 # Installation
 * Step 1: Add the package into your workspace
 ```julia
-Pkg.add("https://github.com/HanWang99/Robot-Surveillance-Julia.git")
+Pkg.add("https://github.com/HanWang99/RoboSurv.git")
 ```
 * Step 2: Use the package
 ```julia
