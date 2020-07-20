@@ -12,9 +12,9 @@ function [P_op,f]=ReturnTimeEntropyOp(A,PI,W,epsilon,eta)
 % <https://ieeexplore.ieee.org/abstract/document/8675541>
 % 
 % Example
-%   A=[1 1 0;1 0 1;0 1 1];
+%   A=[1 1 1;1 1 1;1 1 1];
 %   PI=[1/6;1/2;1/3];
-%   W=[1 2 0;3 0 4;0 5 6];
+%   W=[1 2 3;4 5 6;7 8 9];
 %   epsilon=0.08;
 %   eta=0.1;
 %   [P_op,f]=ReturnTimeEntropyOp(A,PI,W,epsilon,eta);
